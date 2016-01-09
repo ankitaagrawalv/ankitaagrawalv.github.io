@@ -93,7 +93,7 @@ th {
 
 img {
   max-width:100%;
-  margin-left: 25px;
+  margin-left: -6px;
 }
 
 header {
@@ -256,8 +256,8 @@ footer {
 }
 
 .profile {
-  height: 157px;
-  width: 201px;
+  height: 371px;
+  width: 272px;
 }
 
 #timeline {
